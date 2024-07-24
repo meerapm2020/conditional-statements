@@ -1,0 +1,42 @@
+1.Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
+
+2. Find the largest of two numbers
+
+3. Find the largest among 3 numbers
+
+4. Find whether the entered number is divisible by 7 or not.
+
+5.Write a Dart program that takes a numeric grade as input and prints out the corresponding letter grade based on the following criteria:
+A: 90-100
+B: 80-89
+C: 70-79
+D: 60-69
+F: Below 60
+
+6.Write a Dart program that determines whether a given year is a leap year or not.
+
+7.Write a Dart program that classifies a person's age into different stages: infant, child, teenager, adult, senior.
+Infant: 0-1
+Child:1-12
+Teenager: 12-19
+Adult: 19-64
+Senior:65 or greater than 65
+
+8.Write a Dart program that calculates the ticket price based on age 
+Adults (age 18 and above): $10
+Students (age 12-17): $8
+Children (age 0-11): $5
+
+9.Write a Dart program that calculates Body Mass Index (BMI) based on user input of weight (in kilograms) and height (in meters). Formula: 
+BMI=Weight/(height*height)
+
+less than 18.5: underweight
+18.5-25: Normal Weight
+25-30: Over weight
+>30- Obsese
+​
+10.Write a Dart program that takes a number (1-7) representing a day of the week and prints the corresponding day name.
+
+11.Write a Dart program that performs a basic arithmetic operation (addition, subtraction, multiplication, division) based on user input.
+
+12.Write a Dart program that takes a number (1-12) representing month and prints the corresponding month name.
